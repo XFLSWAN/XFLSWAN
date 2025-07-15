@@ -1,77 +1,23 @@
-<!-- Animated waving header -->
+<!-- Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=200&section=header&text=Shashank%20Shukla&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%F0%9F%92%BB&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=220&section=header&text=Shashank%20Shukla%20👋&fontSize=45&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Tech%20Explorer%20|%20Open%20Source%20Lover&descSize=18&descAlign=50&descAlignY=70" />
 </p>
 
-<!-- Typing animation -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75000&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Shashank+Shukla;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Tech+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF6B00&vCenter=true&width=550&lines=Hey+there!+I'm+Shashank+Shukla;A+Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Passionate+about+Automation+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<!-- Circular profile image using mask -->
+<!-- Profile Pic -->
 <p align="center">
-  <img src="https://files.catbox.moe/1piqks.jpg" width="150px" alt="profile" style="border-radius: 50%;" />
-</p>
-
-<h2 align="center">👋 Hi, I'm Shashank Shukla</h2>
-
-<p align="center">
-  💻 Passionate Developer | 🌐 Open Source Enthusiast | 🚀 Automation Lover
+  <img src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="140" height="140" style="border-radius: 50%;" alt="Profile" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzshukla&show_icons=true&theme=radical&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshukla&theme=radical&border_radius=15" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzshukla&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
----
-
-<h2 align="center">🤝 Support Me</h2>
-
-<p align="center">
-  <a href="https://t.me/MASTIWITHFRIENDSXD" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/itzshukla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/itzshukla" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,git,github,docker,mysql,bash,linux,vscode" />
-</p>
-
----
-
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:itzshukla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/AmShashank">
-    <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Animated footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=120&section=footer" />
-</p>
+```txt
+💡 I'm Shashank Shukla, a passionate full-stack developer who loves building scalable tools, bots, and platforms.  
+🌍 Based in India — crafting clean code, smart automation, and open-source projects.
+🎯 Currently diving deep into DevOps, APIs, and TypeScript.
