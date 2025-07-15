@@ -54,10 +54,10 @@
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:shashank@example.com">
-    <img src="https://img.shields.io/badge/Email-shashank@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shashankstranger@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shashankstranger@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/itzshukla">
+  <a href="https://t.me/AmShashank">
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
