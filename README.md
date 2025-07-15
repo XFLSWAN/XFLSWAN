@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="mailto:itzshukla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shashank@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-shashank@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/AmShashank">
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
