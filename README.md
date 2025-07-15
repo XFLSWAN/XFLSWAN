@@ -1,12 +1,19 @@
+<!-- Animated waving header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75000&width=600&lines=Hey+There!+I'm+Shashank+Shukla;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Tech+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=200&section=header&text=Shashank%20Shukla&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%F0%9F%92%BB&descAlignY=60&descAlign=50" />
 </p>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://files.catbox.moe/1piqks.jpg" width="140px" height="140px" style="border-radius:50%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75000&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Shashank+Shukla;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Tech+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Hi, I'm Shashank Shukla 👋</h2>
+<!-- Circular profile image using mask -->
+<p align="center">
+  <img src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="150px" alt="profile" style="border-radius: 50%;" />
+</p>
+
+<h2 align="center">👋 Hi, I'm Shashank Shukla</h2>
 
 <p align="center">
   💻 Passionate Developer | 🌐 Open Source Enthusiast | 🚀 Automation Lover
@@ -14,11 +21,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzshukla&show_icons=true&theme=radical&border_radius=20" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshukla&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzshukla&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshukla&theme=radical&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
@@ -31,22 +38,22 @@
 
 <p align="center">
   <a href="https://t.me/MASTIWITHFRIENDSXD" target="_blank">
-    <img src="https://img.shields.io/badge/Support-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Join%20Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/itzshukla" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gitlab.com/itzshukla" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-Visit-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Dev Tools I Use</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,linux,bash,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,git,github,docker,mysql,bash,linux,vscode" />
 </p>
 
 ---
@@ -55,15 +62,16 @@
 
 <p align="center">
   <a href="mailto:itzshukla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shashank@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/AmShashank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<!-- Animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=120&section=footer" />
 </p>
